@@ -1,0 +1,48 @@
+{
+  "streams": [
+    {
+      "title": "hfjld",
+      "description": "fdfdf",
+      "id": 1
+    },
+    {
+      "title": "hfjld",
+      "description": "fdfdf",
+      "id": 2
+    },
+    {
+      "title": "Other stream",
+      "description": "some other stream",
+      "id": 3
+    },
+    {
+      "title": "gdfsd",
+      "description": "fsfdfd",
+      "id": 4
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me",
+      "userId": "104168835649447246757",
+      "id": 5
+    },
+    {
+      "title": "gf",
+      "description": "fd",
+      "userId": "104168835649447246757",
+      "id": 6
+    },
+    {
+      "title": "programmatic",
+      "description": "you should not see this ",
+      "userId": "104168835649447246757",
+      "id": 7
+    },
+    {
+      "title": "ndw",
+      "description": "desp",
+      "userId": "104168835649447246757",
+      "id": 8
+    }
+  ]
+}
